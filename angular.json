@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-shadow-dom-leak"
+    }
+  },
+  "defaultProject": "angular-shadow-dom-leak",
+  "cli": {
+    "analytics": false
+  }
 }
